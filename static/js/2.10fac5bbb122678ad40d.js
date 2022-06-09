@@ -1,0 +1,2 @@
+webpackJsonp([2],{Pabk:function(t,e){},YcJa:function(t,e,a){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var n={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{attrs:{id:"not"}},[e("div",{staticClass:"msg"},[this._v("404 访问了错误的地址，内容无法显示")]),this._v(" "),e("router-link",{attrs:{to:"/"}},[this._v("返回首页")])],1)},staticRenderFns:[]};var s=a("VU/8")({name:"NotFound"},n,!1,function(t){a("Pabk")},"data-v-d976fa7a",null);e.default=s.exports}});
+//# sourceMappingURL=2.10fac5bbb122678ad40d.js.map
